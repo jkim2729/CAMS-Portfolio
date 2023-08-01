@@ -59,7 +59,6 @@ def calculate_portfolio_value(portfolio_data, updated_portfolio):
             portfolio_value[z[i]]['Gain/Loss'] = original_port[z[i]]['Shares']*portfolio_data.Open.iloc[0,i] - portfolio_value[z[i]]['Current Value']
     return portfolio_value
 
-         
 
 
 
