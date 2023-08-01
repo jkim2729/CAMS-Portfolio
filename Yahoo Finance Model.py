@@ -62,12 +62,5 @@ def calculate_portfolio_value(portfolio_data, updated_portfolio):
          
 
 
-# def calculate_stock_value(portfolio):
-#     portfolio_value
-# for i in range(len(data)+1):
-#     if i == len(data):
-#         break
-#     if data.Dividends.iloc[i] !=0:
-#         num_shares+= data.Dividends.iloc[i]/(data.Open.iloc[i+1])
-        
+
     
